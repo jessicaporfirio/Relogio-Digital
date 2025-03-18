@@ -27,9 +27,3 @@ A proposta é mostrar, de forma dinâmica e atualizada em tempo real, as **horas
 ![Relógio Digital](./assets/img/relogio%20digital.jpg)
 
 ---
-
-## 🛠️ Como utilizar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
