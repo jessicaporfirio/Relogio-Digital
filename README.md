@@ -23,8 +23,6 @@ A proposta é mostrar, de forma dinâmica e atualizada em tempo real, as **horas
 
 ## 📸 Imagem do Projeto
 
-> *(Adicione uma imagem do seu relógio digital aqui)*  
-Exemplo:
 
 ![Relógio Digital](./assets/img/relogio%20digital.jpg)
 
